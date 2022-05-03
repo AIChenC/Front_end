@@ -1,0 +1,49 @@
+body {
+    position: relative; background-color:lightgoldenrodyellow;    
+}
+#title{
+    text-align: center;
+    color:rgb(3, 59, 107);
+    font-family: 'EB Garamond', serif;
+    font-weight:Bolder;
+}
+#title h1{    
+    background-color: rgb(223, 188, 188);
+    line-height: 160px;
+}
+table{
+    font-size: 20px;
+    color: rgb(3, 59, 107);
+    font-family: 'EB Garamond', serif;
+}
+
+h3{
+    color: rgb(5, 102, 119);
+    font-size: 36px;
+    font-family: 'Oooh Baby', cursive;
+    font-weight:Bolder;
+}
+hr{
+        border: 3px solid rgb(26, 76, 83);   
+}
+a{
+    color: rgb(5, 102, 119);
+    font-size: 36px;
+    font-size: 120%; font-family: 'Oooh Baby', cursive;
+    font-weight:Bolder;
+}
+ul.nav-pills {
+    top: 240px;
+    position: fixed;
+    font-size: 120%; font-family: 'Oooh Baby', cursive;
+    font-weight:Bolder;
+}
+ul.list-group{
+    color:rgb(3, 59, 107);
+    font-family: 'EB Garamond', serif;
+    font-weight:Bolder; font-size: 150%; 
+
+}
+#section3 li:hover{
+    background-color: rgb(181, 247, 192);
+}
